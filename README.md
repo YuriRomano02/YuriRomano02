@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yuri Romano</h1>
 <h3 align="center">Hello, my name is Yuri Romano and I am a university student at the Department of Computer Science, Bioengineering, Robotics, and Systems Engineering at the University of Genoa.</h3>
 
+- 😊 Now i have a portfolio too [https://yuriromano02.github.io/](https://yuriromano02.github.io/)
+
 - 🌱 I’m currently learning **flutter,python**
 
 - 📫 How to reach me **romanoyuri113@gmail.com**
