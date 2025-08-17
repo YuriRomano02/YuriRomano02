@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-```typescript
+
 const yuri = {
     location: "Genoa, Italy 🇮🇹",
     education: "Computer Science Student",
@@ -18,7 +18,7 @@ const yuri = {
     goal: "Building innovative solutions and contributing to open source",
     funFact: "There are more planes in the seas and oceans than submarines in the sky! ✈️🌊"
 };
-```
+
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
