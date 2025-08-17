@@ -1,38 +1,38 @@
-# Hey there! 👋 I'm Yuri Romano
+# Ciao! 👋 Sono Yuri Romano
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h3>Computer Science Student | Future Software Engineer | Problem Solver</h3>
-  <p><em>University of Genoa - Department of Computer Science, Bioengineering, Robotics, and Systems Engineering</em></p>
+  <h3>Studente di Informatica | Futuro Ingegnere del Software | Problem Solver</h3>
+  <p><em>Università di Genova - Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi</em></p>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Chi Sono
 
-
+```javascript
 const yuri = {
-    location: "Genoa, Italy 🇮🇹",
-    education: "Computer Science Student",
-    currentFocus: ["Flutter Development", "Python Programming", "Software Engineering"],
-    goal: "Building innovative solutions and contributing to open source",
-    funFact: "There are more planes in the seas and oceans than submarines in the sky! ✈️🌊"
+    posizione: "Genova, Italia 🇮🇹",
+    formazione: "Studente di Informatica",
+    focusAttuale: ["Sviluppo Flutter", "Programmazione Python", "Ingegneria del Software"],
+    obiettivo: "Costruire soluzioni innovative e contribuire all'open source",
+    curiosita: "Ci sono più aerei nei mari e negli oceani che sottomarini nel cielo! ✈️🌊"
 };
-
+```
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🎯 Current Focus
-- 🌱 **Learning:** Flutter & Python development
-- 🔭 **Working on:** Personal projects and university coursework
-- 💼 **Open to:** Internship opportunities and collaborative projects
+### 🎯 Focus Attuale
+- 🌱 **Sto imparando:** Sviluppo Flutter e programmazione Python
+- 🔭 **Sto lavorando su:** Progetti personali e corsi universitari
+- 💼 **Aperto a:** Opportunità di stage e progetti collaborativi
 - 🎨 **Portfolio:** [yuriromano02.github.io](https://yuriromano02.github.io/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnologico
 
-### Languages
+### Linguaggi di Programmazione
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -43,7 +43,7 @@ const yuri = {
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### Frontend & Mobile
+### Frontend e Mobile
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -52,7 +52,7 @@ const yuri = {
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-### Backend & Databases
+### Backend e Database
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -60,7 +60,7 @@ const yuri = {
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </p>
 
-### Tools & Systems
+### Strumenti e Sistemi
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -69,7 +69,7 @@ const yuri = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Statistiche GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriromano02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -82,14 +82,14 @@ const yuri = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trofei GitHub
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuriromano02&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🎨 Recent Activity
+## 🎨 Attività Recente
 
 <div align="center">
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
@@ -97,14 +97,14 @@ const yuri = {
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Citazione del Giorno per Sviluppatori
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connettiamoci!
 
 <div align="center">
   
@@ -119,13 +119,13 @@ const yuri = {
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <em><b>Amo connettermi con persone diverse</b> quindi se vuoi dire <b>ciao, sarò felice di conoscerti meglio!</b> 😊</em>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuriromano02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yuriromano02&label=Visualizzazioni%20profilo&color=0e75b6&style=flat" alt="Visualizzazioni Profilo" />
 </div>
 
-⭐️ From [yuriromano02](https://github.com/yuriromano02)
+⭐️ Da [yuriromano02](https://github.com/yuriromano02)
