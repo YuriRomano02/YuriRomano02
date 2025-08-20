@@ -1,8 +1,7 @@
 # Ciao! 👋 Sono Yuri Romano
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h3>Studente di Informatica | Futuro Ingegnere del Software | Problem Solver</h3>
+  <h3>Studente di Informatica | Futuro Ingegnere del Software</h3>
   <p><em>Università di Genova - Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi</em></p>
 </div>
 
@@ -10,23 +9,9 @@
 
 ## 🚀 Chi Sono
 
-```javascript
-const yuri = {
-    posizione: "Genova, Italia 🇮🇹",
-    formazione: "Studente di Informatica",
-    focusAttuale: ["Sviluppo Flutter", "Programmazione Python", "Ingegneria del Software"],
-    obiettivo: "Costruire soluzioni innovative e contribuire all'open source",
-    curiosita: "Ci sono più aerei nei mari e negli oceani che sottomarini nel cielo! ✈️🌊"
-};
-```
+Sono uno studente di informatica appassionato di sviluppo software, con focus su **Flutter**, **Python** e **Ingegneria del Software**. Amo creare soluzioni innovative e contribuire all'open source.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 🎯 Focus Attuale
-- 🌱 **Sto imparando:** Sviluppo Flutter e programmazione Python
-- 🔭 **Sto lavorando su:** Progetti personali e corsi universitari
-- 💼 **Aperto a:** Opportunità di stage e progetti collaborativi
-- 🎨 **Portfolio:** [yuriromano02.github.io](https://yuriromano02.github.io/)
+📍 **Genova, Italia** | 💼 **Aperto a stage e collaborazioni**
 
 ---
 
@@ -69,38 +54,16 @@ const yuri = {
 
 ---
 
-## 📊 Statistiche GitHub
+## 🎯 Progetti in Evidenza
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriromano02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriromano02&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+### 🌟 [DibrisPlus](https://github.com/yuriromano02/dibrisplus)
+Un progetto innovativo che migliora l'esperienza utente attraverso soluzioni tecnologiche avanzate.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriromano02&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+### 🎨 [Portfolio Personale](https://yuriromano02.github.io/)
+Il mio portfolio online dove mostro i miei progetti e competenze di sviluppo web.
 
----
-
-## 🏆 Trofei GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuriromano02&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎨 Attività Recente
-
-<div align="center">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## 💭 Citazione del Giorno per Sviluppatori
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+### 📚 Comic App
+Un'applicazione mobile sviluppata in Flutter per la gestione e lettura di fumetti digitali.
 
 ---
 
@@ -118,14 +81,5 @@ const yuri = {
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>Amo connettermi con persone diverse</b> quindi se vuoi dire <b>ciao, sarò felice di conoscerti meglio!</b> 😊</em>
+  <em>Amo connettermi con persone diverse - se vuoi dire ciao, sarò felice di conoscerti! 😊</em>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuriromano02&label=Visualizzazioni%20profilo&color=0e75b6&style=flat" alt="Visualizzazioni Profilo" />
-</div>
-
-⭐️ Da [yuriromano02](https://github.com/yuriromano02)
