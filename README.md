@@ -62,7 +62,7 @@ Un progetto innovativo che migliora l'esperienza utente attraverso soluzioni tec
 ### 🎨 [Portfolio Personale](https://yuriromano02.github.io/)
 Il mio portfolio online dove mostro i miei progetti e competenze di sviluppo web.
 
-### 📚 Comic App
+### 📚 [Comic App](https://github.com/YuriRomano02/comicapp)
 Un'applicazione mobile sviluppata in Flutter per la gestione e lettura di fumetti digitali.
 
 ---
