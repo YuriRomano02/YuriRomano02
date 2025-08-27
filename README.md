@@ -9,7 +9,7 @@
 
 ## 🚀 Chi Sono
 
-Sono uno studente di informatica appassionato di sviluppo software, con focus su **Flutter**, **Python** e **Ingegneria del Software**. Amo creare soluzioni innovative e contribuire all'open source.
+Sono uno studente di informatica appassionato di sviluppo software.
 
 📍 **Genova, Italia** | 💼 **Aperto a stage e collaborazioni**
 
