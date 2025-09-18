@@ -25,7 +25,6 @@
 
 ```javascript
 const yuri = {
-    pronouns: "he" | "him",
     location: "Genova, Italy 🏔️",
     education: "Computer Science Student",
     currentFocus: "Full-Stack Development",
@@ -232,13 +231,13 @@ Sto lavorando su qualcosa di fantastico! 🤫
 > 
 > **Because light attracts bugs!** 🐛💡
 
-### 🎵 Currently Listening To
-```
-🎧 Synthwave while coding
-🎵 Lo-fi hip hop for focus  
-🎸 Rock for debugging sessions
-🎼 Classical for architecture planning
-```
+### 🎵 What I'm Listening To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+</div>
 
 ### ☕ Fuel Stats
 ```javascript
