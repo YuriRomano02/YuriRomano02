@@ -191,9 +191,6 @@ Innovative Solutions
 ---
 
 ## 🎮 **Fun Section**
-
-<img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-
 ### 🎲 Random Developer Joke
 > Why do programmers prefer dark mode?
 > 
@@ -203,7 +200,7 @@ Innovative Solutions
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21oblakbphybsaw53tu5vkbdq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21oblakbphybsaw53tu5vkbdq&cover_image=true&theme=novatorem&show_offline=false&background_color=240000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
