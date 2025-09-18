@@ -32,9 +32,7 @@ const yuri = {
 
 🔭 Currently working on exciting university projects  
 🌱 Learning advanced web technologies and mobile development  
-👯 Looking to collaborate on open source projects  
-💬 Ask me about **JavaScript, Java, Flutter, or anything tech!**  
-⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes! 🧩**
+👯 Looking to collaborate on open source projects   
 
 ---
 
@@ -200,17 +198,6 @@ Innovative Solutions
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21oblakbphybsaw53tu5vkbdq&cover_image=true&theme=novatorem&show_offline=false&background_color=240000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
-### ☕ Fuel Stats
-```javascript
-const dailyStats = {
-    coffee: "☕☕☕☕☕", // 5 cups minimum
-    code_lines: "~500 lines/day",
-    bugs_created: "undefined", 
-    bugs_fixed: "definitely more than created!",
-    stackoverflow_visits: "∞"
-};
-```
 
 ---
 
