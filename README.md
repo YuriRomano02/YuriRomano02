@@ -1,157 +1,290 @@
-# Yuri Romano
-
 <div align="center">
 
-**Software Engineering Student** | **Full-Stack Developer** | **Technology Enthusiast**
+# 🚀 Hey there! I'm **Yuri Romano** 
 
-*University of Genova - Department of Computer Science, Bioengineering, Robotics and Systems Engineering*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Technology+Enthusiast;Problem+Solver;Code+Artisan" alt="Typing SVG" />
 
-[![Location](https://img.shields.io/badge/📍-Genova,%20Italy-2E86AB?style=flat&labelColor=2E86AB&color=white)](https://goo.gl/maps/genova)
-[![Status](https://img.shields.io/badge/💼-Open%20to%20Opportunities-28A745?style=flat&labelColor=28A745&color=white)](#contact)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-romano-a2587a28b/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🎓 Computer Science @ University of Genova - DIBRIS
+### 📍 Based in Beautiful Genova, Italy 🇮🇹
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YuriRomano02&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lives-Genova%2C%20Italy-success?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I am a dedicated Computer Science student at the University of Genova with a strong passion for software development and emerging technologies. My academic journey has equipped me with a solid foundation in programming languages, software architecture, and problem-solving methodologies.
+## 🌟 **About Me**
 
-Currently seeking **internship opportunities** and **collaborative projects** that will allow me to apply my technical skills while continuing to learn and grow as a software engineer.
+```javascript
+const yuri = {
+    pronouns: "he" | "him",
+    location: "Genova, Italy 🏔️",
+    education: "Computer Science Student",
+    currentFocus: "Full-Stack Development",
+    hobbies: ["🎮 Gaming", "📚 Learning", "🏃‍♂️ Running", "🎬 Movies"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
----
-
-## Technical Skills
-
-### Programming Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+🔭 Currently working on exciting university projects  
+🌱 Learning advanced web technologies and mobile development  
+👯 Looking to collaborate on open source projects  
+💬 Ask me about **JavaScript, Java, Flutter, or anything tech!**  
+⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes! 🧩**
 
 ---
 
-## Featured Projects
-
-### 🚀 [DibrisPlus](https://github.com/yuriromano02/dibrisplus)
-> **University Experience Enhancement Platform**
-
-An innovative solution designed to improve student experience within the DIBRIS department through modern web technologies and user-centered design.
-
-**Key Features:**
-- Streamlined university processes
-- Modern, responsive interface
-- Enhanced user experience
-
-**Technologies:** Frontend frameworks, API integration, responsive design
-
----
-
-### 🌐 [Personal Portfolio](https://yuriromano02.github.io/)
-> **Professional Online Presence**
-
-A comprehensive portfolio website showcasing my projects, skills, and professional journey as a software developer.
-
-**Key Features:**
-- Responsive design
-- Project showcase
-- Professional presentation
-- Modern UI/UX
-
-**Technologies:** HTML5, CSS3, JavaScript
-
----
-
-### 📱 [Comic App](https://github.com/YuriRomano02/comicapp)
-> **Digital Comic Management System**
-
-A cross-platform mobile application built with Flutter for managing and reading digital comic collections with an intuitive user interface.
-
-**Key Features:**
-- Digital comic library management
-- Cross-platform compatibility
-- Intuitive reading experience
-- Local storage optimization
-
-**Technologies:** Flutter, Dart, Mobile UI/UX
-
----
-
-## Academic Background
-
-**Bachelor's Degree in Computer Science** *(In Progress)*  
-University of Genova - DIBRIS Department  
-*2021 - Present*
-
-**Relevant Coursework:**
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Systems
-- Software Engineering
-- Web Development
-- Mobile Application Development
-
----
-
-## Professional Experience
-
-**Currently seeking internship opportunities** in:
-- Software Development
-- Web Development
-- Mobile Application Development
-- Full-Stack Development
-
----
-
-## Contact
+## 🛠️ **My Tech Arsenal**
 
 <div align="center">
 
-**Let's connect and discuss opportunities!**
+### 💻 **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuriromano02.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-romano-a2587a28b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanoyuri113@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuri.rmn)
+### 🎨 **Frontend & Design**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 📱 **Mobile & Backend**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### 🗄️ **Databases & Tools**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
+## 🎯 **Featured Projects**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🚀 DibrisPlus</h3>
+<div align="center">  
+<a href="https://github.com/yuriromano02/dibrisplus" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+</div>
+
+</br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/University-Project-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
+
+Un progetto innovativo che migliora l'esperienza universitaria attraverso tecnologie web moderne e design user-centered.
+
+**🔧 Tech Stack:**
+- Frontend moderno
+- API Integration
+- Responsive Design
+
+</td>
+<td width="50%">
+
+<h3 align="center">🌐 Personal Portfolio</h3>
+<div align="center">  
+<a href="https://yuriromano02.github.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+</div>
+
+</br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Personal-Website-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+</p>
+
+Il mio spazio digitale dove mostro progetti, competenze e la mia crescita come sviluppatore.
+
+**🔧 Tech Stack:**
+- HTML5, CSS3, JS
+- Responsive Design
+- Modern Animations
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">📱 Comic App</h3>
+<div align="center">  
+<a href="https://github.com/YuriRomano02/comicapp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
+</div>
+
+</br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile-App-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Cross--Platform-blue?style=for-the-badge" />
+</p>
+
+App mobile cross-platform per la gestione e lettura di fumetti digitali con UI coinvolgente.
+
+**🔧 Tech Stack:**
+- Flutter & Dart
+- Local Storage
+- Material Design
+
+</td>
+<td width="50%">
+
+<h3 align="center">🔜 Coming Soon...</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />
+</div>
+
+</br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Secret-red?style=for-the-badge" />
+</p>
+
+Sto lavorando su qualcosa di fantastico! 🤫
+
+**🔧 Preview:**
+- AI/ML Integration
+- Modern Tech Stack
+- Innovative Solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YuriRomano02&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Romano github stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriRomano02&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriRomano02&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+</div>
+
+---
+
+## 🏆 **Achievement Unlocked**
+
 <div align="center">
 
-*I'm always interested in connecting with fellow developers, potential collaborators, and industry professionals. Feel free to reach out!*
+```
+🎓 University Student               ✅ Achieved
+💻 Multi-Language Programmer        ✅ Achieved  
+🌐 Full-Stack Developer            ✅ In Progress
+📱 Mobile App Developer            ✅ Achieved
+🚀 Open Source Contributor         🔄 Loading...
+🏢 Professional Developer          🎯 Next Goal
+```
 
-**📧 Business Inquiries:** [romanoyuri113@gmail.com](mailto:romanoyuri113@gmail.com)  
-**🔗 Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/yuri-romano-a2587a28b/)  
-**🌐 Portfolio:** [yuriromano02.github.io](https://yuriromano02.github.io/)
+</div>
 
-<sub>© 2025 Yuri Romano • Last Updated: September 2025</sub>
+---
+
+## 🎮 **Fun Section**
+
+<img align="right" alt="Fun" width="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+
+### 🎲 Random Developer Joke
+> Why do programmers prefer dark mode?
+> 
+> **Because light attracts bugs!** 🐛💡
+
+### 🎵 Currently Listening To
+```
+🎧 Synthwave while coding
+🎵 Lo-fi hip hop for focus  
+🎸 Rock for debugging sessions
+🎼 Classical for architecture planning
+```
+
+### ☕ Fuel Stats
+```javascript
+const dailyStats = {
+    coffee: "☕☕☕☕☕", // 5 cups minimum
+    code_lines: "~500 lines/day",
+    bugs_created: "undefined", 
+    bugs_fixed: "definitely more than created!",
+    stackoverflow_visits: "∞"
+};
+```
+
+---
+
+## 🌈 **Connect & Collaborate**
+
+<div align="center">
+
+### 🤝 Let's Build Something Amazing Together!
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+
+<p>
+<a href="https://yuriromano02.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" /></a>
+<a href="https://www.linkedin.com/in/yuri-romano-a2587a28b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:romanoyuri113@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://instagram.com/yuri.rmn" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+</p>
+
+### 💌 **Drop me a line!**
+
+```
+📧 Business: romanoyuri113@gmail.com
+🔗 Professional: LinkedIn Profile  
+🌐 Portfolio: yuriromano02.github.io
+📱 Social: @yuri.rmn
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20create%20something%20incredible%20together&descAlignY=80&descAlign=center"/>
+</div>
+
+**⭐ If you like my projects, give them a star! It means a lot! ⭐**
+
+<sub>Made with ❤️ by Yuri Romano • © 2025 • "Code is poetry in motion"</sub>
 
 </div>
