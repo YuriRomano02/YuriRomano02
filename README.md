@@ -1,215 +1,144 @@
-```
-████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗         
-╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║         
-   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║         
-   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║         
-   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗    
-   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    
-```
+# Yuri Romano
 
 <div align="center">
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                             🏚️ VAULT-TEC DATABASE 🏚️                           ┃
-┃                                DOSSIER PERSONALE                               ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+**Software Engineering Student** | **Full-Stack Developer** | **Technology Enthusiast**
 
-**⚡ ATTENZIONE: ACCESSO AUTORIZZATO ⚡**
+*University of Genova - Department of Computer Science, Bioengineering, Robotics and Systems Engineering*
+
+[![Location](https://img.shields.io/badge/📍-Genova,%20Italy-2E86AB?style=flat&labelColor=2E86AB&color=white)](https://goo.gl/maps/genova)
+[![Status](https://img.shields.io/badge/💼-Open%20to%20Opportunities-28A745?style=flat&labelColor=28A745&color=white)](#contact)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-romano-a2587a28b/)
 
 </div>
 
 ---
 
-## 🔋 **DATI IDENTIFICATIVI**
+## About Me
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ NOME UTENTE........: YURI ROMANO                                            ║
-║ STATO...............: [●●●●●●●●○○] ATTIVO                                   ║
-║ LOCALIZZAZIONE......: GENOVA, ITALIA                                        ║
-║ OCCUPAZIONE.........: STUDENTE DI INFORMATICA                               ║
-║ AFFILIAZIONE........: UNIVERSITA' DI GENOVA - DIBRIS                        ║
-║ LIVELLO DI SICUREZZA: CLASSIFICATO                                           ║
-║ ULTIMO ACCESSO......: ORA                                                    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+I am a dedicated Computer Science student at the University of Genova with a strong passion for software development and emerging technologies. My academic journey has equipped me with a solid foundation in programming languages, software architecture, and problem-solving methodologies.
+
+Currently seeking **internship opportunities** and **collaborative projects** that will allow me to apply my technical skills while continuing to learn and grow as a software engineer.
 
 ---
 
-## 💻 **TERMINALE DI ACCESSO**
+## Technical Skills
+
+### Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🚀 [DibrisPlus](https://github.com/yuriromano02/dibrisplus)
+> **University Experience Enhancement Platform**
+
+An innovative solution designed to improve student experience within the DIBRIS department through modern web technologies and user-centered design.
+
+**Key Features:**
+- Streamlined university processes
+- Modern, responsive interface
+- Enhanced user experience
+
+**Technologies:** Frontend frameworks, API integration, responsive design
+
+---
+
+### 🌐 [Personal Portfolio](https://yuriromano02.github.io/)
+> **Professional Online Presence**
+
+A comprehensive portfolio website showcasing my projects, skills, and professional journey as a software developer.
+
+**Key Features:**
+- Responsive design
+- Project showcase
+- Professional presentation
+- Modern UI/UX
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+---
+
+### 📱 [Comic App](https://github.com/YuriRomano02/comicapp)
+> **Digital Comic Management System**
+
+A cross-platform mobile application built with Flutter for managing and reading digital comic collections with an intuitive user interface.
+
+**Key Features:**
+- Digital comic library management
+- Cross-platform compatibility
+- Intuitive reading experience
+- Local storage optimization
+
+**Technologies:** Flutter, Dart, Mobile UI/UX
+
+---
+
+## Academic Background
+
+**Bachelor's Degree in Computer Science** *(In Progress)*  
+University of Genova - DIBRIS Department  
+*2021 - Present*
+
+**Relevant Coursework:**
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Systems
+- Software Engineering
+- Web Development
+- Mobile Application Development
+
+---
+
+## Professional Experience
+
+**Currently seeking internship opportunities** in:
+- Software Development
+- Web Development
+- Mobile Application Development
+- Full-Stack Development
+
+---
+
+## Contact
 
 <div align="center">
 
-```
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ > INIZIALIZZAZIONE SISTEMA...                              [████████████] │
-│ > CARICAMENTO MODULI...                                     [████████████] │
-│ > CONNESSIONE STABILITA                                     [████████████] │
-│                                                                             │
-│           ███╗   ██╗██╗   ██╗██████╗ ██╗    ██╗ ██████╗ ██████╗ ██╗       │
-│           ████╗  ██║██║   ██║██╔══██╗██║    ██║██╔═══██╗██╔══██╗██║       │
-│           ██╔██╗ ██║██║   ██║██║  ██║██║ █╗ ██║██║   ██║██████╔╝██║       │
-│           ██║╚██╗██║██║   ██║██║  ██║██║███╗██║██║   ██║██╔══██╗██║       │
-│           ██║ ╚████║╚██████╔╝██████╔╝╚███╔███╔╝╚██████╔╝██║  ██║███████╗  │
-│           ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝  │
-│                                                                             │
-│           > BENVENUTO NEL SISTEMA, SOPRAVVISSUTO                           │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
+**Let's connect and discuss opportunities!**
 
-</div>
-
----
-
-## ⚙️ **INVENTARIO TECNOLOGICO**
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                SKILL TREE                                   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-### 🔫 **ARMI DA GUERRA (Linguaggi)**
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ [▓▓▓▓▓] C            - Fucile da combattimento         │
-│ [▓▓▓▓▓] C++          - Fucile al plasma                │
-│ [▓▓▓▓▓] JAVA         - Laser Gatling                   │
-│ [▓▓▓▓○] PYTHON       - Pistola laser                   │
-│ [▓▓▓▓○] JAVASCRIPT   - Fucile d'assalto                │
-│ [▓▓▓○○] C#           - Pistola 10mm                    │
-│ [▓▓▓○○] PHP          - Pipe Pistol                     │
-└─────────────────────────────────────────────────────────┘
-```
-
-### 🛡️ **ARMATURA (Frontend/Mobile)**
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ [EQUIPPED] HTML5     - Tuta Energetica T-45d           │
-│ [EQUIPPED] CSS3      - Elmetto da Combattimento         │
-│ [EQUIPPED] REACT     - Armatura Potente T-51b          │
-│ [READY]    VUE.JS    - Armatura X-01                   │
-│ [READY]    FLUTTER   - Tuta Ambientale                 │
-└─────────────────────────────────────────────────────────┘
-```
-
-### 🔧 **STRUMENTI DI SOPRAVVIVENZA (Backend/DB)**
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ [●] NODE.JS          - Generatore di Fusione           │
-│ [●] MYSQL            - Terminale Principale            │
-│ [●] POSTGRESQL       - Computer Quantico               │
-│ [●] MARIADB          - Sistema di Backup               │
-│ [●] MONGODB          - Archivio Dati Avanzato          │
-└─────────────────────────────────────────────────────────┘
-```
-
-### ⚡ **GADGET TECNOLOGICI (Tools)**
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ [◉] GIT             - Pip-Boy 3000                     │
-│ [◉] LINUX           - Sistema Operativo V.A.T.S.       │
-│ [◉] MATLAB          - Calcolatrice Scientifica          │
-│ [◉] VS CODE         - Terminale Hacker                 │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📡 **MISSIONI COMPLETATE**
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                            REGISTRO MISSIONI                                ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 🎯 **MISSIONE PRINCIPALE: DIBRISPLUS**
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ STATO: [✅ COMPLETATA]                    RICOMPENSA: ★★★★★                  │
-│                                                                              │
-│ > DESCRIZIONE: Miglioramento sistemi universitari                           │
-│ > OBIETTIVO: Ottimizzare l'esperienza utente DIBRIS                         │
-│ > METODI: Tecnologie web avanzate                                           │
-│                                                                              │
-│ [LINK]: https://github.com/yuriromano02/dibrisplus                          │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🏆 **MISSIONE SECONDARIA: PORTFOLIO VAULT**
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ STATO: [✅ COMPLETATA]                    RICOMPENSA: ★★★★☆                  │
-│                                                                              │
-│ > DESCRIZIONE: Costruzione base operativa online                            │
-│ > OBIETTIVO: Mostrare abilità e progetti                                    │
-│ > METODI: HTML, CSS, JavaScript                                             │
-│                                                                              │
-│ [LINK]: https://yuriromano02.github.io/                                     │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 📱 **MISSIONE SPECIALE: COMIC VAULT**
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ STATO: [✅ COMPLETATA]                    RICOMPENSA: ★★★★☆                  │
-│                                                                              │
-│ > DESCRIZIONE: Sviluppo app mobile per gestione fumetti                     │
-│ > OBIETTIVO: Digitalizzazione libreria comics                               │
-│ > METODI: Flutter, Dart                                                     │
-│                                                                              │
-│ [LINK]: https://github.com/YuriRomano02/comicapp                            │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🚧 **MISSIONI IN CORSO**
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ > [⏳] PROGETTO AI/ML - Sistema di Intelligenza Artificiale                 │
-│ > [⏳] PIATTAFORMA WEB3 - Economia Post-Apocalittica                        │
-│ > [⏳] DASHBOARD ANALYTICS - Centro di Controllo Dati                       │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🎓 **CRONOLOGIA DI SOPRAVVIVENZA**
-
-```
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                              TIMELINE VAULT                                │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 2021 ║ ENTRATA NEL VAULT - Prime nozioni di programmazione                 │
-│ 2022 ║ ADDESTRAMENTO AVANZATO - C, C++, Java                               │
-│ 2023 ║ SPECIALIZZAZIONE WEB - JavaScript, React, Vue.js                    │
-│ 2024 ║ ESPANSIONE MOBILE - Flutter, Node.js, Database                      │
-│ 2025 ║ MISSIONE FINALE - AI/ML, Cloud, DevOps                              │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
-
----
-
-## 🔗 **FREQUENZE DI COMUNICAZIONE**
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          CANALI DI COMUNICAZIONE                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-[![🌐 VAULT NETWORK](https://img.shields.io/badge/🌐_VAULT_NETWORK-FF5722?style=for-the-badge&logoColor=white)](https://yuriromano02.github.io/)
-[![📡 RADIO FREQ](https://img.shields.io/badge/📡_RADIO_FREQ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-romano-a2587a28b/)
-[![📷 PIP-BOY CAM](https://img.shields.io/badge/📷_PIP--BOY_CAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuri.rmn)
-[![📨 MESSAGGIO](https://img.shields.io/badge/📨_MESSAGGIO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanoyuri113@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuriromano02.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-romano-a2587a28b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanoyuri113@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuri.rmn)
 
 </div>
 
@@ -217,25 +146,12 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  "La guerra... la guerra non cambia mai.                                    ║
-║   Ma il codice... il codice è la nostra speranza per il futuro."            ║
-║                                                                              ║
-║                           - Sopravvissuto 111                               ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+*I'm always interested in connecting with fellow developers, potential collaborators, and industry professionals. Feel free to reach out!*
 
-**⚡ SISTEMA OPERATIVO ATTIVO ⚡**
+**📧 Business Inquiries:** [romanoyuri113@gmail.com](mailto:romanoyuri113@gmail.com)  
+**🔗 Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/yuri-romano-a2587a28b/)  
+**🌐 Portfolio:** [yuriromano02.github.io](https://yuriromano02.github.io/)
 
-```
-> GRAZIE PER AVER ACCEDUTO AL VAULT DATABASE
-> CONNESSIONE TERMINATA
-> ARRIVEDERCI, SOPRAVVISSUTO
-```
-
-<sub>🏚️ Vault-Tec Database • Ultimo aggiornamento: Settembre 2025 • Yuri Romano © 2025</sub>
+<sub>© 2025 Yuri Romano • Last Updated: September 2025</sub>
 
 </div>
