@@ -88,120 +88,88 @@ const yuri = {
 
 ---
 
-## 🎯 **Featured Projects**
-
+🎯 Featured Projects
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 <table>
 <tr>
 <td width="50%">
-
 <h3 align="center">🚀 DibrisPlus</h3>
 <div align="center">  
 <a href="https://github.com/yuriromano02/dibrisplus" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 </div>
-
 </br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/University-Project-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
-
 Un progetto innovativo che migliora l'esperienza universitaria attraverso tecnologie web moderne e design user-centered.
+🔧 Tech Stack:
 
-**🔧 Tech Stack:**
-- Frontend moderno
-- API Integration
-- Responsive Design
+Frontend moderno
+API Integration
+Responsive Design
 
 </td>
 <td width="50%">
-
 <h3 align="center">🌐 Personal Portfolio</h3>
 <div align="center">  
 <a href="https://yuriromano02.github.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 </div>
-
 </br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Personal-Website-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
 </p>
-
 Il mio spazio digitale dove mostro progetti, competenze e la mia crescita come sviluppatore.
+🔧 Tech Stack:
 
-**🔧 Tech Stack:**
-- HTML5, CSS3, JS
-- Responsive Design
-- Modern Animations
+HTML5, CSS3, JS
+Responsive Design
+Modern Animations
 
 </td>
 </tr>
 <tr>
 <td width="50%">
-
 <h3 align="center">📱 Comic App</h3>
 <div align="center">  
-<a href="https://github.com/YuriRomano02/comicapp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
+<a href="https://github.com/YuriRomano02/comicapp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
 </div>
-
 </br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Mobile-App-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Cross--Platform-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge" />
 </p>
+App mobile nativa Android per la gestione e lettura di fumetti digitali con UI coinvolgente.
+🔧 Tech Stack:
 
-App mobile cross-platform per la gestione e lettura di fumetti digitali con UI coinvolgente.
-
-**🔧 Tech Stack:**
-- Flutter & Dart
-- Local Storage
-- Material Design
+Kotlin
+Android SDK
+Material Design
 
 </td>
 <td width="50%">
-
 <h3 align="center">🔜 Coming Soon...</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />
 </div>
-
 </br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Type-Secret-red?style=for-the-badge" />
 </p>
-
 Sto lavorando su qualcosa di fantastico! 🤫
+🔧 Preview:
 
-**🔧 Preview:**
-- AI/ML Integration
-- Modern Tech Stack
-- Innovative Solutions
+AI/ML Integration
+Modern Tech Stack
+Innovative Solutions
 
 </td>
 </tr>
 </table>
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YuriRomano02&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Romano github stats" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriRomano02&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriRomano02&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
-</div>
 
 ---
 
