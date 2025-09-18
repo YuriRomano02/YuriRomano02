@@ -235,7 +235,7 @@ Sto lavorando su qualcosa di fantastico! 🤫
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_ID&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21oblakbphybsaw53tu5vkbdq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
