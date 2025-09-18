@@ -10,7 +10,7 @@
   <p>
     <img alt="Location" src="https://img.shields.io/badge/📍%20Genova-Italia-blue?style=flat-square&color=ff6b6b"/>
     <img alt="Status" src="https://img.shields.io/badge/💼%20Status-Aperto%20a%20collaborazioni-green?style=flat-square&color=4ecdc4"/>
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yuriromano02&color=blueviolet&style=flat-square"/>
+    <img src="https://komarev.com/ghpvc/?username=YuriRomano02&color=blueviolet&style=flat-square"/>
   </p>
 
 </div>
@@ -200,14 +200,20 @@ Sempre alla ricerca di nuove sfide tecnologiche!
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriromano02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriromano02&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriRomano02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriRomano02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=yuriromano02&theme=tokyonight)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriRomano02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriRomano02&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
   
 </div>
 
@@ -277,7 +283,7 @@ timeline
   
   ### ✨ *Grazie per aver visitato il mio profilo!*
   
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://github.com/YuriRomano02/YuriRomano02/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
   
   <br>
   
