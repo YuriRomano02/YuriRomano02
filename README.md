@@ -12,7 +12,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=YuriRomano02&color=blueviolet&style=for-the-badge&label=Profile+Views" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lives-Genova%2C%20Italy-success?style=for-the-badge" />
 </p>
 
 </div>
