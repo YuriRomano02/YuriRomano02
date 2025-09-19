@@ -22,7 +22,7 @@
 
 ```javascript
 const yuri = {
-    location: "Genova, Italy 🏔️",
+    location: "Levanto, Italy 🏔️",
     education: "Computer Science Student",
     currentFocus: "Full-Stack Development",
     hobbies: ["🎮 Gaming", "📚 Learning", "🏃‍♂️ Running", "🎬 Movies"],
